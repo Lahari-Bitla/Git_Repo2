@@ -1,8 +1,0 @@
-Welcome to file1 in github repo 2.
-This is the edited content in file1.
-Edited in Central Repo.
-<<<<<<< HEAD
-Conflict in server 
-=======
-Conflict statement in fourth line.
->>>>>>> b408ae080d8bfbee1ce2bced1f54d5b2a5035423
