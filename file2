@@ -5,3 +5,4 @@ New modification in file2 from server.
 TO check rebase commit-a.
 commit-b
 commit-c
+git tag...
